@@ -14,5 +14,5 @@ María Cecilia Falfán
 ## Installation
 You need to download the Urban.Luch application from the browser or get it directly from one of the developers. The tests were performed from an Android Device API 34 Pie API28 x86_64 Android 9.0. 1080x1920 resolution via an Android Studio.
 
-## Testing-Android-Studio-proyect
+## Contact
 www.linkedin.com/in/maría-cecilia-falfán-lugo-25a8112a1
